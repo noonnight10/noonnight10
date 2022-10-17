@@ -10,10 +10,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord: Dal_OvO#8853
 - ⚡ YT: 달성
 -->
+- 🔭 KDMHS 21th DC
+- 🌱 Kotlin 학습 중
+- 📫 How to reach me: Discord: Dal_OvO#8853
+- ⚡ YT: 달성
 
 
 
 
 
-	/github/directory-file-count/:user/:repo?type=dir
   
