@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 KDMHS 21th DC![image](https://user-images.githubusercontent.com/77263064/199895618-42360411-49b4-4d9b-9ecf-08ff6c68d0d9.png)
+- 🔭 KDMHS 21th DC
 
 - 🌱 Kotlin 학습 중
 - 📫 How to reach me: Discord: Dal_OvO#8853
