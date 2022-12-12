@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 KDMHS 21th DC
 
 - 🌱 Kotlin 학습 중
-- 📫 How to reach me: Discord: Dal_OvO#8853
+- 📫 How to reach me: Discord: Dal_OvO#8869
 - ⚡ YT: 달성
 
 
