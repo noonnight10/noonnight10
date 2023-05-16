@@ -1,16 +1,12 @@
-### Hi there ✨
+### 리듬쓰레기 달성입니다 ✨
 
-<!--
-**noonnight10/noonnight10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 KDMHS 21th DC
-
-- 🌱 Kotlin 학습 중
-- 📫 How to reach me: Discord: Dal_OvO#8869
+- 🌱 C++, C# 학습 중
+- 📫 How to reach me: Discord: 달성#8869
 - ⚡ YT: 달성
 
+
+
+<img src="https://img.shields.io/badge/YouTube-#FF0000?style=flat-square&logo=YouTube&logoColor=#FF0000"/>
 
 
 
