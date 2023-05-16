@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=리듬쓰레기%20달성입니다&fontSize=90)
+
 ### 리듬쓰레기 달성입니다 ✨
 
 - 🌱 C++, C# 학습 중
