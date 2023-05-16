@@ -10,7 +10,7 @@
 
 
 ## 🍀 Studying 🍀
-https://img.shields.io/badge/{python}-{#3776AB}?style={python}&logo={python}&logoColor={Yellow}
+https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white
 
 
 
