@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=noonnight10&fontSize=90)
 
-### 리듬쓰레기 달성입니다 ✨
+### ✨ Introduction ✨
+안녕하세요! 리듬쓰레기 개발자 달성입니다. 프론트엔드 개발자로 일한 경력이 있으며 현재는 공부중입니다.
+프론트엔드와 백엔드 모두 관심있는 신입 개발자입니다💜
 
 - 🌱 C++, C# 학습 중
+- 🎮 Project Progress: Luna (BMS Player)
 - 📫 My Discord Server: https://discord.gg/heDapSGKvb
 - ⚡ YT: 달성
 
