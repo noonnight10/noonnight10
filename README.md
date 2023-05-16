@@ -5,11 +5,7 @@
 - 📫 How to reach me: Discord: 달성#8869
 - ⚡ YT: 달성
 
-![Status](https://github-readme-stats.vercel.app/api?username=recu3125&show_icons=true&theme=react)   
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=recu3125&layout=compact&theme=react)
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noonnight10&show_icons=true&theme=radical)
 
 
 
