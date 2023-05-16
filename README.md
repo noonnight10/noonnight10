@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_000979"&height=300&section=header&text=noonnight10&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#B897FF"&height=300&section=header&text=noonnight10&fontSize=90)
 
 ### 리듬쓰레기 달성입니다 ✨
 
